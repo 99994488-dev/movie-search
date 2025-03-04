@@ -1,0 +1,49 @@
+.layout {
+  min-height: 100vh;
+}
+
+.site-layout-content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+  border-radius: 4px;
+}
+
+.ant-layout-header {
+  padding: 0;
+  background: #001529;
+}
+
+.ant-layout-footer {
+  background: #001529;
+  color: #fff;
+}
+
+.ant-card {
+  transition: all 0.3s;
+}
+
+.ant-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.ant-form-item {
+  margin-bottom: 24px;
+}
+
+.ant-btn {
+  height: 40px;
+}
+
+.ant-input {
+  height: 40px;
+}
+
+.ant-select-selector {
+  height: 40px !important;
+}
+
+.ant-select-selection-item {
+  line-height: 38px !important;
+} 
